@@ -127,3 +127,27 @@ recursive feature addition with RandomForest with the method same as the guide
 5.If the metric increases by more than an arbitrarily set threshold, then that feature is important and should be kept. Otherwise, we can remove that feature.
 
 6.Repeat steps 2-5 until all features have been removed (and therefore evaluated) and the drop in performance assessed.
+
+## Macine Learning models
+
+1.Logistic Regression
+
+2.Support Vector Classifier
+
+3.K Neighbors Classifier
+
+4.Decision Tree Classifier
+
+5.Random Forest Classifier
+
+6.XGBoost Classifier
+
+## References
+
+https://github.com/jbrownlee/Datasets/blob/master/pima-indians-diabetes.names
+
+https://github.com/anikch/PIMA-indian-diabetes-eda-prediction
+
+https://github.com/npradaschnor/Pima-Indians-Diabetes-Dataset
+
+https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection
